@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A list of the monasterys, nunnerys, and colleges, belonging to the English papists in several popish countrys beyond sea published to inform the people of England of the measures taken by the popish party for the reestablishing of popery in these nations : in a letter to a member of Parliament.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48668</idno><idno type="EEBO-CITATION">11871433</idno>
+  <idno type="VID">50139</idno>
+  <idno type="EEBO-PROQUEST">2240889200</idno>
+  
+            <idno type="STC">Wing L2458A</idno>
+            <idno type="STC">ESTC R75</idno>
+            <idno type="OCLC">11871433</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A48668)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50139)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 501:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A list of the monasterys, nunnerys, and colleges, belonging to the English papists in several popish countrys beyond sea published to inform the people of England of the measures taken by the popish party for the reestablishing of popery in these nations : in a letter to a member of Parliament.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for A. Baldwin,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Catholic Church --  England.</term>
+               <term type="topical_term">Monasteries --  Europe.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:50139:1"/>
+            <pb facs="tcp:50139:1"/>
+            <p>A LIST of the MONASTERYS, NUNNERYS, And COLLEGES, Belonging to the English Papists IN Several Popish Countrys beyond Sea.</p>
+            <p>PUBLISHED To inform the People of <hi>England</hi> of the Measures taken by the Popish Party for the reestablishing of <hi>Popery</hi> in these Nations.</p>
+            <p>
+               <hi>In a Letter to a Member of Parliament.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>A. Baldwin</hi> in <hi>Warwicklane.</hi> 1700.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:50139:2"/>
+            <pb n="3" facs="tcp:50139:2"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Find that your Honourable House is fully sensible of the dangerous Consequence of the Numbers of Papists amongst us by your present Proceedings; And to add what I can to your Knowledg con<g ref="char:EOLhyphen"/>cerning Papists, I have here sent you a List of the <hi>Se<g ref="char:EOLhyphen"/>minaries</hi> and <hi>Religious Houses</hi> Abroad, maintain'd at the Charge of the <hi>English Papists.</hi> I can't assure you the List is perfect, believing there are many more that have slipt my knowledg, but what I here send you is known to be true.</p>
+            <list>
+               <head>Lisbon.</head>
+               <item>1. HERE is a College of Secular <hi>English</hi> Priests, in number about 40. Their President is <hi>Matthi<g ref="char:EOLhyphen"/>as Watkinson.</hi>
+               </item>
+               <item>2. Here is also a Monastery of <hi>English</hi> Nuns, of the Order of St. <hi>Bridget,</hi> their Community 30.</item>
+               <item>3. Also a Convent of <hi>Irish</hi> Dominican Friars, in num<g ref="char:EOLhyphen"/>ber 16.</item>
+               <item>4. Also <hi>Dominican</hi> Nuns of the same Country.</item>
+               <item>5. With a College of Secular <hi>Irish</hi> Priests, under the Government of <hi>Portuguese</hi> Jesuits, in number about 13.</item>
+            </list>
+            <pb n="4" facs="tcp:50139:3"/>
+            <list>
+               <head>
+                  <hi>Validolid</hi> in <hi>Spain.</hi>
+               </head>
+               <item>Twelve Secular Priests under the Government of <hi>Spa<g ref="char:EOLhyphen"/>nish</hi> Jesuits. An <hi>English</hi> Jesuit is the Minister in the House, and is next to the Rector.</item>
+            </list>
+            <list>
+               <head>Madrid.</head>
+               <item>1. An <hi>English</hi> College, under the Government of <hi>Spa<g ref="char:EOLhyphen"/>nish</hi> Jesuits. An <hi>English</hi> Man is the Minister in the House. Number 8.</item>
+               <item>2. A <hi>Scots</hi> and <hi>Irish</hi> College.</item>
+            </list>
+            <list>
+               <head>Sevil.</head>
+               <item>An <hi>English</hi> College under the Government of <hi>Spanish</hi> Jesuits.</item>
+            </list>
+            <list>
+               <head>St. <hi>Lucar.</hi>
+               </head>
+               <item>A small College of <hi>English</hi> called <hi>St. Georges.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Bilboa.</head>
+               <item>A House whereof Father <hi>Anthony</hi> is Chief.</item>
+            </list>
+            <list>
+               <head>Paris.</head>
+               <item>1. In the <hi>Feauboorge St. Jacques,</hi> is a Convent of <hi>Eng<g ref="char:EOLhyphen"/>lish Benedictine</hi> Monks, whose Prior is <hi>Will. Hitch<g ref="char:EOLhyphen"/>cock;</hi> they are in number 24.</item>
+               <item>2. A Monastery of Visitation Nuns, otherwise <hi>Blew Nuns,</hi> Number 20.</item>
+               <item>3. A Monastery of Nuns of the Order of St. <hi>Augustine.</hi> The Nuns are in number 60, the Pensioners as ma<g ref="char:EOLhyphen"/>ny.</item>
+               <pb n="5" facs="tcp:50139:3"/>
+               <item>4. A Monastery of <hi>Benedictine</hi> Nuns, in number 30.</item>
+               <item>5. A College of <hi>Irish</hi> Secular Priests, called <hi>Montacue College.</hi>
+               </item>
+               <item>6. A College of <hi>Scots</hi> Secular Priests.</item>
+               <item>7. Near <hi>Paris</hi> a Convent of <hi>English</hi> discalced, <hi>alias Bare-legged Carmelite Friars.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Doway.</head>
+               <item>1. A College of Secular Priests and Students, <hi>Numb.</hi> about 150.</item>
+               <item>2. A Convent of Benedictine Monks, <hi>Numb.</hi> 25.</item>
+               <item>3. A College in the Convent of English Youths, they have been known to be 59.</item>
+               <item>5. A Convent of Franciscan Friars, <hi>Numb.</hi> 60.</item>
+               <item>6. A <hi>Scots</hi> College of Jesuits.</item>
+            </list>
+            <list>
+               <head>
+                  <hi>Blois</hi> in <hi>France.</hi>
+               </head>
+               <item>A Nunnery.</item>
+            </list>
+            <list>
+               <head>
+                  <hi>Pontois</hi> in <hi>France.</hi>
+               </head>
+               <item>A Monastery of <hi>Benedictine</hi> Nuns, under the Directi<g ref="char:EOLhyphen"/>on of the Jesuits.</item>
+            </list>
+            <list>
+               <head>Dunkirk.</head>
+               <item>1. A Monastery of <hi>Benedictine</hi> Nuns, commonly call'd the <hi>rich Dames,</hi> under the Direction of the Jesuits.</item>
+               <item>2. A Monastery of poor Clares.</item>
+            </list>
+            <list>
+               <head>Gravelin.</head>
+               <item>A Monastery of <hi>English</hi> poor Clares.</item>
+            </list>
+            <pb n="6" facs="tcp:50139:4"/>
+            <list>
+               <head>Flanders.</head>
+               <item>A Monastery of discalced, <hi>alias</hi> barelegged <hi>Carmelite</hi> Nuns.</item>
+               <item>Two other Monasteries of <hi>Augustine</hi> Nuns.</item>
+            </list>
+            <list>
+               <head>At <hi>Burnham</hi> near <hi>Brussels.</hi>
+               </head>
+               <item>A Convent of <hi>Dominican</hi> Friars founded by Cardinal <hi>Howard.</hi>
+               </item>
+            </list>
+            <p>
+               <hi>Near that,</hi>
+            </p>
+            <list>
+               <item>A Monastery of <hi>English</hi> Dominican Nuns.</item>
+            </list>
+            <p>
+               <hi>Near that,</hi>
+            </p>
+            <list>
+               <item>A Convent of <hi>Carmelite</hi> Friars.</item>
+            </list>
+            <list>
+               <head>
+                  <hi>Ares</hi> in <hi>Flanders.</hi>
+               </head>
+               <item>A Monastery of poor Clares.</item>
+            </list>
+            <list>
+               <head>Lovaine.</head>
+               <item>1. A College of <hi>Dominican</hi> Friars.</item>
+               <item>2. A College of <hi>Irish</hi> Capuchins.</item>
+            </list>
+            <list>
+               <head>
+                  <hi>Newport</hi> in <hi>Flanders.</hi>
+               </head>
+               <item>A Convent of <hi>Carthusian</hi> Monks, <hi>Numb.</hi> 12. under <hi>William Hall,</hi> Chaplain to the late K. <hi>James.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Cambray.</head>
+               <item>A Monastery of <hi>Benedictine</hi> Nuns, under Direction of the Monks of the same Order, <hi>Numb.</hi> 30.</item>
+            </list>
+            <pb n="7" facs="tcp:50139:4"/>
+            <list>
+               <head>Leige.</head>
+               <item>1. A Monastery of Cannonesses Regulars of the Order of St. <hi>Austin.</hi>
+               </item>
+               <item>2. A College of <hi>English</hi> Jesuits, consisting of 180.</item>
+            </list>
+            <list>
+               <head>Ghent.</head>
+               <item>1. A College of Jesuits, <hi>Numb.</hi> 6.</item>
+               <item>2. A Nunnery.</item>
+            </list>
+            <list>
+               <head>Bridges.</head>
+               <item>1. A Monastery of Nuns of the third Order of St. <hi>Francis,</hi> Numb. 30.</item>
+               <item>2. A Monastery of <hi>Augustine</hi> Nuns.</item>
+            </list>
+            <list>
+               <head>St. <hi>Omers.</hi>
+               </head>
+               <item>A College of Jesuits about 30, with 180 <hi>English</hi> Scholars.</item>
+            </list>
+            <list>
+               <head>
+                  <hi>Lanspring</hi> in <hi>Germany.</hi>
+               </head>
+               <item>An Abbey of <hi>Benedictine</hi> Monks, with a Lord Abbot, <hi>Numb.</hi> 30.</item>
+            </list>
+            <list>
+               <head>
+                  <hi>Deiulward</hi> in <hi>Lorrain.</hi>
+               </head>
+               <item>A Convent of <hi>Benedictine</hi> Monks, <hi>Numb.</hi> 16.</item>
+            </list>
+            <list>
+               <head>Rome.</head>
+               <item>1. A College of Secular Priests under the Government of the <hi>English</hi> Jesuits.</item>
+               <item>2. A <hi>Scots</hi> College.</item>
+            </list>
+            <pb n="8" facs="tcp:50139:5"/>
+            <p>By this Account it appears there are 51 Religious Houses maintain'd at the Charge of the <hi>English</hi> Pa<g ref="char:EOLhyphen"/>pists, which carries vast Sums of Money yearly out of the Nation, and returns nothing in lieu thereof, but a fort of Vermin that are a common Nusance to Church and State. The Methods how to prevent this growing Evil, are left to the great Wisdom of your Honourable House. I am,</p>
+            <closer>
+               <salute>SIR,</salute>
+               <signed>
+                  <hi>Yours,</hi> &amp;c.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <p>REasons offer'd for a Law to enact the Castration or Gelding of Popish Priests, as the most infalli<g ref="char:EOLhyphen"/>ble means to prevent the Growth of Popery in <hi>England.</hi> Sold by <hi>A. Baldwin.</hi> Price 6 <hi>d.</hi>
+            </p>
+            <pb facs="tcp:50139:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
